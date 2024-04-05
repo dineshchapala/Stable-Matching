@@ -1,8 +1,3 @@
-Team Members:
-1.Deekshith Reddy Chandupatla(chandupatla.7@wright.edu)
-2.Sandeep Kumar Karnati(Karnati.18@wright.edu)
-3.Manasa Kothapeta(kothapeta.2@wright.edu)
-
 System Requirement :
 1. System should have 3+ python version.
 
